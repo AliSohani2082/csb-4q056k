@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alisohani2082.github.io/csb-4q056k/static/css/main.02fee3ec.chunk.css",
+    "main.js": "https://alisohani2082.github.io/csb-4q056k/static/js/main.a812a913.chunk.js",
+    "main.js.map": "https://alisohani2082.github.io/csb-4q056k/static/js/main.a812a913.chunk.js.map",
+    "runtime-main.js": "https://alisohani2082.github.io/csb-4q056k/static/js/runtime-main.ece9ad1e.js",
+    "runtime-main.js.map": "https://alisohani2082.github.io/csb-4q056k/static/js/runtime-main.ece9ad1e.js.map",
+    "static/js/2.8fb2e7ed.chunk.js": "https://alisohani2082.github.io/csb-4q056k/static/js/2.8fb2e7ed.chunk.js",
+    "static/js/2.8fb2e7ed.chunk.js.map": "https://alisohani2082.github.io/csb-4q056k/static/js/2.8fb2e7ed.chunk.js.map",
+    "index.html": "https://alisohani2082.github.io/csb-4q056k/index.html",
+    "static/css/main.02fee3ec.chunk.css.map": "https://alisohani2082.github.io/csb-4q056k/static/css/main.02fee3ec.chunk.css.map",
+    "static/js/2.8fb2e7ed.chunk.js.LICENSE.txt": "https://alisohani2082.github.io/csb-4q056k/static/js/2.8fb2e7ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ece9ad1e.js",
+    "static/js/2.8fb2e7ed.chunk.js",
+    "static/css/main.02fee3ec.chunk.css",
+    "static/js/main.a812a913.chunk.js"
+  ]
+}
